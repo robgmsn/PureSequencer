@@ -14103,14 +14103,14 @@ Standard 6 pin header for AVR programming</description>
 <part name="C4" library="GMSN" deviceset="CAPACITOR_POL-US" device="153CLV-0505" value="10uF"/>
 <part name="C5" library="GMSN" deviceset="CAPACITOR_POL-US" device="153CLV-0505" value="10uF"/>
 <part name="GND8" library="GMSN" deviceset="GND" device=""/>
-<part name="FADER1" library="GMSN" deviceset="RESISTOR_VARIABLE_LED" device="" value="100k"/>
-<part name="FADER2" library="GMSN" deviceset="RESISTOR_VARIABLE_LED" device="" value="100k"/>
-<part name="FADER3" library="GMSN" deviceset="RESISTOR_VARIABLE_LED" device="" value="100k"/>
-<part name="FADER4" library="GMSN" deviceset="RESISTOR_VARIABLE_LED" device="" value="100k"/>
-<part name="FADER5" library="GMSN" deviceset="RESISTOR_VARIABLE_LED" device="" value="100k"/>
-<part name="FADER6" library="GMSN" deviceset="RESISTOR_VARIABLE_LED" device="" value="100k"/>
-<part name="FADER7" library="GMSN" deviceset="RESISTOR_VARIABLE_LED" device="" value="100k"/>
-<part name="FADER8" library="GMSN" deviceset="RESISTOR_VARIABLE_LED" device="" value="100k"/>
+<part name="FADER1" library="GMSN" deviceset="RESISTOR_VARIABLE_LED" device="" value="50k"/>
+<part name="FADER2" library="GMSN" deviceset="RESISTOR_VARIABLE_LED" device="" value="50k"/>
+<part name="FADER3" library="GMSN" deviceset="RESISTOR_VARIABLE_LED" device="" value="50k"/>
+<part name="FADER4" library="GMSN" deviceset="RESISTOR_VARIABLE_LED" device="" value="50k"/>
+<part name="FADER5" library="GMSN" deviceset="RESISTOR_VARIABLE_LED" device="" value="50k"/>
+<part name="FADER6" library="GMSN" deviceset="RESISTOR_VARIABLE_LED" device="" value="50k"/>
+<part name="FADER7" library="GMSN" deviceset="RESISTOR_VARIABLE_LED" device="" value="50k"/>
+<part name="FADER8" library="GMSN" deviceset="RESISTOR_VARIABLE_LED" device="" value="50k"/>
 <part name="GND4" library="GMSN" deviceset="GND" device=""/>
 <part name="IC6" library="GMSN" deviceset="MUX_1X8_CD4051" device="" value="CD4051"/>
 <part name="GND5" library="GMSN" deviceset="GND" device=""/>
